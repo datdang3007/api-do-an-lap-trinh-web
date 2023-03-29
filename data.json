@@ -1,0 +1,1567 @@
+{
+  "statistical": {
+    "tongsoluottruycap": 252
+  },
+  "users": [
+    {
+      "id": 1,
+      "sdt": "1",
+      "password": "Datpro123",
+      "password2": "1234",
+      "permission": "admin"
+    },
+    {
+      "hoten": "Võ Minh Long",
+      "email": "vominhlong@gmail.com",
+      "sdt": "0123456789",
+      "password": "Datpro123",
+      "id": 2,
+      "avatar": "",
+      "like": [],
+      "danhgia": [
+        {
+          "id": 1,
+          "score": 5
+        }
+      ]
+    },
+    {
+      "hoten": "Đạt Đặng Tiến",
+      "email": "datdang@gmail.com",
+      "sdt": "0123456897",
+      "password": "Datpro123",
+      "avatar": "https://media.discordapp.net/attachments/1045608708903813140/1088576373645389854/sv1.jpg?width=507&height=676",
+      "like": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        }
+      ],
+      "danhgia": [
+        {
+          "id": 1,
+          "score": 10
+        },
+        {
+          "id": 4,
+          "score": 7
+        }
+      ],
+      "id": 3
+    },
+    {
+      "id": 4,
+      "hoten": "Đặng Tiến Đạt",
+      "email": "datdang3007@gmail.com",
+      "sdt": "0912646816",
+      "password": "Datpro123",
+      "avatar": "https://media.discordapp.net/attachments/1045608708903813140/1088576373645389854/sv1.jpg?width=507&height=676",
+      "like": [
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 27
+        }
+      ],
+      "danhgia": [
+        {
+          "id": 1,
+          "score": 10
+        }
+      ]
+    }
+  ],
+  "film": [
+    {
+      "id": 1,
+      "ten": "Trùm, Cớm và Ác Quỷ",
+      "theloai": "Hành động",
+      "quocgia": "Hàn Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2019,
+      "daodien": "Lee Won Tae",
+      "dienvien": "Ma Dong Seok, Kim Moo Yul, Kim Sung Kyu, Kim Yoon Sung, Oh Hee Joon, Choi Min Chul, Ahn Sung Bong,vv..",
+      "thoiluong": "1 giờ 49 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 25,
+      "luotdanhgia": 3,
+      "like": 3,
+      "luottruycap": 6,
+      "noidung": "Trùm, Cớm và Ác Quỷ là tác phẩm điện ảnh thứ hai của Lee Won Tae với vai trò đạo diễn được ra mắt trên màn ảnh rộng Hàn Quốc vào năm 2019 và từng vinh dự có cơ hội trình chiếu tại Liên hoan phim Cannes. Xoay quanh ba nhân vật khác nhau là viên thanh tra cảnh sát Jung Tae Seok, tên trùm khét tiếng Jang Dong Soo và tên sát nhân máu lạnh Kang Kyung Ho, Trùm, Cớm và Ác Quỷ đã xây dựng nên một màn hợp tác đỉnh cao giữa hai thế lực đối nghịch nhằm truy tìm “kẻ xấu nhất”.",
+      "link": "https://www.youtube.com/embed/EEgI6g-fsSY",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085811063263600670/Trum-com-acquy.jpg",
+      "tags": {
+        "tag1": "chú mặp mặp",
+        "tag2": "quýnh lộn",
+        "tag3": "giang hồ",
+        "tag4": "xăm mình",
+        "tag5": "máu me"
+      }
+    },
+    {
+      "id": 2,
+      "ten": "Biệt Đội Săn Mồi",
+      "theloai": "Hành động",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2020,
+      "daodien": "M.J. Bassett",
+      "dienvien": "Megan Fox, Jessica Sutton, Philip Winchester",
+      "thoiluong": "1 giờ 39 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 8,
+      "noidung": "Sam là nữ thủ lĩnh đầy kinh nghiệm của biệt đội Rogue – nhóm lính đánh thuê được thống đốc bang ở một quốc gia Châu Phi trả tiền để giải cứu con gái ông đang bị bọn Zalaam – kẻ cầm đầu băng nhóm cực đoan tại khu vực này. Quá trình giải cứu con tin của Sam gặp rất nhiều trở ngại, không chỉ là sự hung tàn của bè lũ Zalaam mà còn vì sự xuất hiện của một kẻ săn mồi đáng sợ nhất rừng xanh.",
+      "link": "https://www.youtube.com/embed/yn7qzzWZTrg",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085811277215051836/e0c185c8-d41e-4e67-b570-6deabb77c30d.png",
+      "tags": {
+        "tag1": "bắn súng",
+        "tag2": "đốt",
+        "tag3": "bảo vệ",
+        "tag4": "lính",
+        "tag5": "bóc lộc"
+      }
+    },
+    {
+      "id": 3,
+      "ten": "Lối Thoát Trên Không",
+      "theloai": "Tình cảm",
+      "quocgia": "Hàn Quốc",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2019,
+      "daodien": "Lee Sang-geun",
+      "dienvien": "Jo Jung-suk, Yoona",
+      "thoiluong": "1 giờ 44 phút",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dacbiet": "HD|Vietsub",
+      "luottruycap": 0,
+      "noidung": "Lee Yong-nam là một chàng trai trẻ giỏi leo núi nhưng vẫn đang trong tình cảnh thất nghiệp mà cũng thất tình. Nhân dịp sinh nhật lần thứ 70 của mẹ, Yong-nam nằng nặc đòi tổ chức tiệc tại nhà hàng tiệc cưới Cloud Garden, nơi mà Jung Eui-joo - cô gái mà anh theo đuổi cũng có kỹ năng leo núi tốt - đang làm việc với tư cách là nhân viên phục vụ. Không ngờ, một thảm họa bất ngờ ập tới, toàn bộ thủ đô Seoul chìm trong một loại khí ga màu trắng gây chết người. Không còn cách nào khác, Yong-nam buộc phải vận dụng mọi kỹ năng leo núi của mình, cùng sự giúp đỡ của Eui-joo để cứu sống gia đình, các khách mời cũng như chính bản thân mình.",
+      "link": "https://www.youtube.com/embed/biE0eV7M2vQ",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085813511034241064/8316ad258a7687aa682be6f48e8f4590c98e0338.png",
+      "tags": {
+        "tag1": "máy bay",
+        "tag2": "giải cứu",
+        "tag3": "cháy",
+        "tag4": "mạo hiểm"
+      }
+    },
+    {
+      "id": 4,
+      "ten": "Hương Sơn Kì Duyên",
+      "theloai": "Cổ Trang",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2021,
+      "daodien": "Triệu Lôi",
+      "dienvien": "Từ Tiểu Táp, Lưu Hiểu Hổ, Kim Xảo Xảo",
+      "thoiluong": "Đã có 5/28 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 7,
+      "luotdanhgia": 1,
+      "like": 2,
+      "luottruycap": 2,
+      "noidung": "Hương Sơn Kì Duyên kể về câu chuyện truyền kỳ của Diệu Thiện công chúa, tương truyền thời cổ đại có một nước chư hầu mang tên Tần Ninh. Vua Tần Ninh có ba cô công chúa, không có ai kế thừa vương vị, gian thần Ngô Quý thừa cơ mưu đồ soán ngôi, tham ô chiếm đoạt của công để gầy dựng thế lực cho mình, khiến tai họa xảy ra khắp nơi. Hắn còn lợi dụng sự mê tín của bách tính, cấu kết với quốc sư, giá họa cho tam công chúa vừa mới ra đời, nói rằng cô là tai tinh hại nước hại nước, muốn dùng cô tế thần sông. Hộ quốc công âm thầm bảo vệ, giúp tam công chúa vượt qua kiếp nạn, từ đó lưu lạc dân gian. Tam công chúa được Tống dược sư nuôi nấng, nảy sinh tình cảm với thanh mai trúc mã là Tống Đa - con trai Tống dược sư, nhưng mẹ Tống không đồng ý, ép cô bỏ nhà đi",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087952931518693386/harper-bazaar-review-phim-phu-do-duyen-unchained-love-9.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Hương Sơn Kì Duyên - Tập 1",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/DfNgpKdUZLQ",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086907760286900344/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Hương Sơn Kì Duyên - Tập 2",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/emBWuB5j8GM",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086908194707750942/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Hương Sơn Kì Duyên - Tập 3",
+          "thoiluong": "41 phút",
+          "link": "https://www.youtube.com/embed/4SU5JlodBmU",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086907897960730697/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Hương Sơn Kì Duyên - Tập 4",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/YKZIrXfx5vY",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086907966122381363/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Hương Sơn Kì Duyên - Tập 5",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/AHg0lnF6yaI",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086908356633042995/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "công chúa",
+        "tag2": "cổ trang",
+        "tag3": "âm mưu"
+      }
+    },
+    {
+      "id": 5,
+      "ten": "Hậu Duệ Đặc Chủng",
+      "theloai": "Chiến Tranh",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2022,
+      "daodien": "Từ Kỷ Châu",
+      "thoiluong": "Đã có 6/45 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Dương Dương, Lý Nhất Đồng, Tưởng Lộ Hà, Mạnh A Tái, Cao Hâm, Tưởng Long, Liễu Văn Hoan, Lưu Thạc, Dương Đồng, Triệu Chấn Vũ, Ngô Kiến...",
+      "luottruycap": 0,
+      "noidung": "Hậu Duệ Đặc Chủng xoay quanh hành trình trở thành một chàng quân nhân tài giỏi, xuất sắc của Yến Phá Nhạc (Dương Dương). Sinh ra trong một gia đình có truyền thống phục vụ trong quân đội, Phá Nhạc quyết định nhập ngũ để khẳng định bản thân với cha mình. Dưới sự dẫn dắt của đội trường Lý Cường cùng sự quyết tâm, nhiệt huyết trong luyện tập, Phá Nhạc sớm đạt được những thành tích đáng nể. Nhờ vậy mà anh được chọn vào đội vũ trang đặc chiến, trở thành cái tên quan trọng cho các chiến dịch. Là hậu duệ nhà nòi liệu Phá Nhạc sẽ cùng các quân nhân khác chiến đấu như thế nào để chống lại bọn tội phạm nguy hiểm bảo vệ nhân dân?",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910161123295252/maxresdefault.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Hậu Duệ Đặc Chủng - Tập 1",
+          "thoiluong": "41 phút",
+          "link": "https://www.youtube.com/embed/m5-HqZsGMCo",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910161123295252/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Hậu Duệ Đặc Chủng - Tập 2",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/9GlLjclpBeg",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910270783369256/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Hậu Duệ Đặc Chủng - Tập 3",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/1eLq3sVO10c",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910369479544843/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Hậu Duệ Đặc Chủng - Tập 4",
+          "thoiluong": "44 phút",
+          "link": "https://www.youtube.com/embed/pN6JaB-suUI",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910475855466527/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Hậu Duệ Đặc Chủng - Tập 5",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/_rTplymdsfo",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910564707598447/maxresdefault.png"
+        },
+        "tap6": {
+          "ten": "Hậu Duệ Đặc Chủng - Tập 6",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/SZnvWSPx8as",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086910684509515796/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "chiến tranh",
+        "tag2": "quân đội",
+        "tag3": "chiến đấu",
+        "tag4": "hậu duệ",
+        "tag5": "đặc chủng"
+      }
+    },
+    {
+      "id": 6,
+      "ten": "Hôn Em, Anh Có Dám",
+      "theloai": "Tình cảm",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2023,
+      "daodien": "Tăng Thuấn Hy",
+      "thoiluong": "Đã có 7/24 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Tăng Thuấn Hy, Ngô Khải Hoa, Nhan Trác Linh, Chu Trường Áo, Phùng Kiến Vũ...",
+      "luottruycap": 0,
+      "noidung": "Bộ phim kể về Lý Gia sau khi mẹ và anh trai của anh đều mắc bệnh tâm thần phân liệt vào năm 24 tuổi, chịu áp lực tinh thần do bệnh di truyền của gia đình, anh đã quyết định đến Hồng Kông để học tập. Vì lý do ký túc xá của trường đại học chật chội, anh phải đi khắp nơi tìm thuê phòng trọ, vì lý do này, anh gặp Trương Xoa Xoa và một đàn em học giải phẫu tên Thời Thành. Trong quá trình tìm kiếm nhà ở nhiều nơi, anh đã gặp Tiêu Tê được mệnh danh là “cao thủ sắc sảo”. Biết rằng Tiêu Tê có khả năng phi thường khi còn nhỏ, sau khi trưởng thành mới 20 tuổi đã nhận hai đồ đệ. Tiêu Tê cũng cùng Trương Xoa Xoa rơi vào mối nhân duyên kì lạ khác nhau. Từ đó Lý Gia và những người khác đã gặp hàng loạt những “người xa lạ” thần bí quái dị và các câu chuyện rối rắm phức tạp...",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087953573305913344/em-la-niem-kieu-hanh-cua-anh-poster-696x1044.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 1",
+          "thoiluong": "35 phút",
+          "link": "https://www.youtube.com/embed/Tru5wqKtdKM",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086913671910916147/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 2",
+          "thoiluong": "43 phút",
+          "link": "https://www.youtube.com/embed/_YDeHF4baFc",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086913746372415488/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 3",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/avjvUt69XAc",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086913793642209420/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 4",
+          "thoiluong": "34 phút",
+          "link": "https://www.youtube.com/embed/82qhjL_6NrI",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086913849044775002/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 5",
+          "thoiluong": "35 phút",
+          "link": "https://www.youtube.com/embed/9EijOU8mLF0",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086913903709130762/maxresdefault.png"
+        },
+        "tap6": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 6",
+          "thoiluong": "36 phút",
+          "link": "https://www.youtube.com/embed/LvWrOy39je4",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086913952207884340/maxresdefault.png"
+        },
+        "tap7": {
+          "ten": "Hôn Em, Anh Có Dám - Tập 7",
+          "thoiluong": "33 phút",
+          "link": "https://www.youtube.com/embed/8aSZ17t2Cv0",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086914005223874630/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "hôn",
+        "tag2": "tình cảm",
+        "tag3": "ngôn tình",
+        "tag4": "yêu nhau",
+        "tag5": "tình yêu"
+      }
+    },
+    {
+      "id": 7,
+      "ten": "Lưu Bá Ôn Kỳ Truyện",
+      "theloai": "Cổ Trang",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2017,
+      "daodien": "Trương Vệ Kiện",
+      "thoiluong": "Đã có full 6/6 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Trần Hiểu, Dương Tử, Lý Thấm, Lâm Phong, Tiêu Chiến và Dư Văn Lạc.",
+      "luottruycap": 0,
+      "noidung": "Bối cảnh phim diễn ra vào thời kỳ Tam Quốc ở Trung Quốc, kể về cuộc phiêu lưu của nhân vật chính Lưu Bá Ôn, một võ sư nổi tiếng, khi ông cùng với các đệ tử của mình tham gia vào cuộc chiến tranh giành quyền lực và bảo vệ dân tộc. Phim được đánh giá là có nội dung hấp dẫn, những pha võ thuật mãn nhãn và được đánh giá là một trong những bộ phim kiếm hiệp hay nhất của điện ảnh Trung Quốc trong những năm gần đây.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915141846708295/phim-luu-ba-on-ky-truyen-tap-1.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Lưu Bá Ôn Kỳ Truyện - Tập 1",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/_3YOIZpXJnA",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915141846708295/phim-luu-ba-on-ky-truyen-tap-1.png"
+        },
+        "tap2": {
+          "ten": "Lưu Bá Ôn Kỳ Truyện - Tập 2",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/xKwZThyTCi8",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915282313957496/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Lưu Bá Ôn Kỳ Truyện - Tập 3",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/xKwZThyTCi8",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915370306261052/phim-luu-ba-on-ky-truyen-tap-3.png"
+        },
+        "tap4": {
+          "ten": "Lưu Bá Ôn Kỳ Truyện - Tập 4",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/v0gtnSgBmgs",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915424572162088/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Lưu Bá Ôn Kỳ Truyện - Tập 5",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/6uSe4oGVqfM",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915472894742678/maxresdefault.png"
+        },
+        "tap6": {
+          "ten": "Lưu Bá Ôn Kỳ Truyện - Tập 6",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/PcL1XK7FQhs",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086915528158892092/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "cổ trang",
+        "tag2": "phiêu lưu",
+        "tag3": "bảo vệ",
+        "tag4": "phim hay",
+        "tag5": "đệ tử"
+      }
+    },
+    {
+      "id": 8,
+      "ten": "Tổng Tài Tuyển Vợ",
+      "theloai": "Tình cảm",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2018,
+      "daodien": "Ngô Gia",
+      "thoiluong": "1 giờ 21 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Lý Nhã Vân, Hồ Nguyên Hà, Tống Minh, Võ Long",
+      "luottruycap": 0,
+      "noidung": "Phim ngon tinh về cô gái xinh đẹp hẹn hò với tổng tài bá đạo vô cùng nguyên tắc. Anh quản lý thời gian giống như người máy vậy, kể cả khi có buổi hẹn cùng người yêu cũng phải chuẩn chỉ từng phút. Sự ngây ngô cứng nhắc của vị Tổng Tài trong những buổi hẹn hò khiến người xem phải bật cười. Ưu điểm của anh là không có gì ngoài thu nhập khủng. Liệu rằng cô gái sẽ chọn tổng tài giàu có hay một anh bạn chưa có sự nghiệp gì trong tay.",
+      "link": "https://www.youtube.com/embed/YXgfOMV2GWs",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087403536310095962/maxresdefault.png",
+      "tags": {
+        "tag1": "tổng tài",
+        "tag2": "vợ",
+        "tag3": "tình cảm",
+        "tag4": "chồng",
+        "tag5": "hẹn hò"
+      }
+    },
+    {
+      "id": 9,
+      "ten": "Ở Đây Có Nắng",
+      "theloai": "Tình cảm",
+      "quocgia": "Việt Nam",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2018,
+      "daodien": "Đỗ Nam",
+      "thoiluong": "1 giờ 32 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Quý Bình, Quỳnh Chi, Trương Thanh Long, Huy Khánh, Lê Chi Na, Miko Lan Trinh, Gia Bảo, Ngân Chi, Anh Thơ, Lê Bình, Hạnh Thuý",
+      "luottruycap": 0,
+      "noidung": "Phim kể về câu chuyện tình yêu giữa hai nhân vật chính là Bình và Hạnh. Bình là một người đàn ông trẻ tuổi, sống một cuộc sống bình thường và làm việc tại một cửa hàng bánh mì. Trong khi đó, Hạnh là một cô gái xinh đẹp nhưng lại mắc bệnh tim và phải sống trong thế giới của riêng mình.",
+      "link": "https://www.youtube.com/embed/z6ZslKAdz0Q",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086271686917238834/phim-o-day-co-nang-cua-quy-1513484074-qRkHXA.png",
+      "tags": {
+        "tag1": "nắng",
+        "tag2": "tình cảm",
+        "tag3": "xinh đẹp",
+        "tag4": "bar",
+        "tag5": "ăn chơi"
+      }
+    },
+    {
+      "id": 10,
+      "ten": "Chí Phèo Ngoại Truyện",
+      "theloai": "Hài hước",
+      "quocgia": "Việt Nam",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2017,
+      "daodien": "Danny Đỗ",
+      "dienvien": "Kiều Minh Tuấn, Thu Trang, Tiến Luật",
+      "thoiluong": "1 giờ 35 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 10,
+      "noidung": "Lấy cảm hứng từ truyện ngắn nổi tiếng của nhà văn Nam Cao, Chí Phèo Ngoại Truyện là một bộ phim hành động, gay cấn nhưng cũng đầy hài hước. Là một cô gái kém sắc kém tài, được ví như Thị Nở, Na làm lao công trong một văn phòng thám tử với mong muốn học hỏi kinh nghiệm để điều tra về cái chết của anh trai mình. Trong một lần điều tra, Na đụng độ Chí – tay giang hồ mặt sẹo khét tiếng. Tình cờ phát hiện bí mật về cái chết của anh trai Na, cô và Chí hợp tác với nhau để tìm ra sự thật. Liệu Na có trả lại được công bằng cho anh mình, Chí có hoàn thành ước mơ làm người lương thiện khi họ phải đối mặt với ông trùm Thiên Bá đầy mưu mô?",
+      "link": "https://www.youtube.com/embed/twJqt_x3mL0",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1090265627056427139/zxfvcyv0_1_horizontal-thumbnaile948a0aa0a7200613f654383daf29b2b.png",
+      "tags": {
+        "tag1": "thu trang",
+        "tag2": "kiều minh tuấn",
+        "tag3": "Tiến Luật",
+        "tag4": "chí phèo",
+        "tag5": "ngoại truyện",
+        "tag6": "hài hước"
+      }
+    },
+    {
+      "id": 11,
+      "ten": "Trẻ Trâu Khởi Nghiệp",
+      "theloai": "Hài hước",
+      "quocgia": "Hàn Quốc",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2019,
+      "daodien": "Choi Jeong-Yeol",
+      "thoiluong": "1 giờ 42 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Ma Dong-seok, Park Jung-min, Jung Hae-in và Yum Jung-ah",
+      "luottruycap": 0,
+      "noidung": "Bộ phim mở đầu với cảnh đôi bạn thân Taek-Il và Sang-Pil đang cố nổ máy 1 chiếc xe cũ mà Taek-Il đặt mua trên mạng, sau khi chiếc xe đi được và gặp vấn đề leo dốc thì 2 thanh niên giao hàng đi qua va đạp vỡ gương chiếu hậu xe của Taek-Il. Taek-Il và Sang-Pil đuổi 2 theo thanh niên giao hàng, lúc này do không đội mũ bảo hiểm nên Taek-Il và Sang-Pil bị cảnh sát đuổi theo. Cả 2 không để ý phía trước là khu vực đường đang thi công nên đã lao thẳng xe vào và bị đưa về đồn cảnh sát.",
+      "link": "https://www.youtube.com/embed/vwffZfFHEcU",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085814933247250452/maxresdefault.png",
+      "tags": {
+        "tag1": "chú mặp mặp",
+        "tag2": "hài hước",
+        "tag3": "cười",
+        "tag4": "phim hay"
+      }
+    },
+    {
+      "id": 12,
+      "ten": "Chuyến Xe Bá Đạo",
+      "theloai": "Hài hước",
+      "quocgia": "Thái Lan",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2016,
+      "daodien": "Poj Arnon",
+      "thoiluong": "1 giờ 30 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Pattarathida Patcharaveerapong, Kunathip PinPradub, Padung Songsaeng",
+      "luottruycap": 0,
+      "noidung": "Pon là tài xế xe buýt số 888. Công việc của anh rất buồn tẻ cho đến một ngày, mọi thứ thay đổi khi Pon phải tiếp đón rất nhiều vị khách kỳ quái lên chuyến xe của mình. Sau đó, nhiều tình huống dở khóc dở cười đã xảy ra ngay trên hành trình của chuyến xe.",
+      "link": "https://www.youtube.com/embed/OnilE6u2kcM",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087389685514522634/0707b610-d3fb-11eb-8340-c7a52bdc65c7_original.png",
+      "tags": {
+        "tag1": "xe bus",
+        "tag2": "hài hước",
+        "tag3": "cười",
+        "tag4": "phim hài"
+      }
+    },
+    {
+      "id": 13,
+      "ten": "Thế Tử Ẩn Thân",
+      "theloai": "Cổ trang",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2020,
+      "thoiluong": "2 giờ 33 phút",
+      "daodien": "Đoàn Trọng Hoa",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Lệ Thu, Trần Bảo Châu, Châu Hoàng Năm, Nguyễn Ngọc Hân, Trần Hạo Nhiên, Nguyễn Thị Ngọc Hân",
+      "luottruycap": 0,
+      "noidung": "Bộ phim xoay quanh vị thế tử nước Tấn bởi vì ân oán năm xưa mà từ bỏ hoàng vị, trở thành thợ săn tiền thưởng tung hoành giang hồ, hành hiệp trượng nghĩa. Nhân duyên tình cờ trong một lần làm nhiệm vụ, hắn gặp được vị hôn thê của thái tử nước kẻ thù và đem lòng yêu nàng. Đồng thời còn gặp được vị công chúa Mông Cổ ngỗ ngược. Trải qua nhiều đau khổ và ly biệt, liệu vị thế tử này sẽ chọn ai?",
+      "link": "https://www.youtube.com/embed/EVaEUDMBWjA",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087391299948253194/maxresdefault.png",
+      "tags": {
+        "tag1": "cổ trang",
+        "tag2": "tình cảm",
+        "tag3": "vua",
+        "tag4": "triều đình"
+      }
+    },
+    {
+      "id": 14,
+      "ten": "Trấn Ma Ti: Tây Vực Dị Hú",
+      "theloai": "Cổ trang",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2021,
+      "daodien": "Hoắc Tuệ Cường",
+      "thoiluong": "1 giờ 38 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Hà Lam Đậu, Vương Lạc Gia, Quách Mộ Hàm, Trình Đào, Đồng Hổ",
+      "luottruycap": 0,
+      "noidung": "Bộ phim là cậu truyện về tiểu đội Chấn Ma Ti dũng cảm đánh bại tà giáo Vãng Sinh Giáo Tây Vực và Thú Chủ của bộ tộc Tây Phương vào năm thứ 40 của vương triều Đại Triệu. Đây là sự rèn luyện trưởng thành của các thành viên Chấn Ma Ti gồm Tiêu Chấn, Ninh Vô Mưu, Hoa Vô Thường, Quan Sấm",
+      "link": "https://www.youtube.com/embed/pWdcQ1NxBdI",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085817455974289430/maxresdefault.png",
+      "tags": {
+        "tag1": "cổ trang",
+        "tag2": "tiểu đội",
+        "tag3": "võ công",
+        "tag4": "quân đội"
+      }
+    },
+    {
+      "id": 15,
+      "ten": "Minari",
+      "theloai": "Tâm lý",
+      "quocgia": "Hàn Quốc",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2021,
+      "thoiluong": "15 phút",
+      "daodien": "Lee Isaac Chung",
+      "dienvien": "Han Ye Ri, Alan Kim, Noel Kate",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 1,
+      "noidung": "Bối cảnh của bộ phim diễn ra vào thập niên 80, đời tổng thống Ronald Reagan với những chính sách tạo cơ hội cho người nhập cư. Bang Arkansas, nơi còn có một tên gọi khác là “The Land of Opportunity” hay nghĩa là “Vùng đất của cơ hội” là nơi lý tưởng cho bất cứ người nhập cư nào bắt đầu cuộc sống mới. Minari là câu chuyện theo đuổi “giấc mơ Mỹ” – một đề tài không mấy mới mẻ nhưng được kể một cách đầy nhẹ nhàng, giàu cảm xúc và chân thực.",
+      "link": "https://www.youtube.com/embed/lAp_ZgAF--I",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085831508155179118/momo-upload-api-210323094930-637520897703034589.png",
+      "tags": {
+        "tag1": "tâm lý",
+        "tag2": "nghị lực",
+        "tag3": "cố gắng",
+        "tag4": "phim ngắn"
+      }
+    },
+    {
+      "id": 16,
+      "ten": "Almost Friends",
+      "theloai": "Tâm lý",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2017,
+      "daodien": "Jake Goldberger",
+      "thoiluong": "1 giờ 33 phút",
+      "dienvien": "Odeya Rush, Freddie Highmore",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Bộ phim Có Lẽ Là Yêu – Almost Friends xoay quanh cuộc sống của Charlie, anh là một người đàn ông không có động lực và định hướng cho tương lai dù đang ở độ tuổi 20. Anh vẫn sống chung",
+      "link": "https://www.youtube.com/embed/mnQom1YC12U",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085834132715745330/maxresdefault.png",
+      "tags": {
+        "tag1": "tâm lý",
+        "tag2": "Âu-Mỹ",
+        "tag3": "phim hay",
+        "tag4": "tình bạn"
+      }
+    },
+    {
+      "id": 17,
+      "ten": "Bằng Chứng Tội Ác",
+      "theloai": "Hình sự",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2017,
+      "daodien": "Tôn Lượng",
+      "thoiluong": "1 giờ 34 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Lý Hân Vân, Ngô Chấn Vũ, Đới Lập Nhẫn",
+      "luottruycap": 0,
+      "noidung": "Evidence (Bằng Chứng Tội Ác) là bộ phim kinh dị xoay quanh một tai nạn xe tại trạm xăng, kèm theo là những sự kiện chết người không rõ nguyên nhân mà tại hiện trường cảnh sát chỉ tìm thấy 1 đoạn băng ghi hình của nạn nhân. Một thám tử vào cuộc, quyết định tìm rõ chân tướng sự việc...",
+      "link": "https://www.youtube.com/embed/BqeO_uWdzZ8",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085835080993349642/maxresdefault.png",
+      "tags": {
+        "tag1": "hình sự",
+        "tag2": "tội ác",
+        "tag3": "cảnh sát",
+        "tag4": "giết người"
+      }
+    },
+    {
+      "id": 18,
+      "ten": "Truy Lùng Tội Ác",
+      "theloai": "Hình sự",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2022,
+      "daodien": "Huỳnh Tông Trạch",
+      "thoiluong": "1 giờ 58 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Lý Nam, Vân Nhi, Lý Đạt, Hào Long",
+      "luottruycap": 0,
+      "noidung": "Bộ Phim xoay quanh câu chuyện truy tìm hung thủ dấu mặt của bộ đôi thiên tài pháp y, họ phải đối mặt với một tên tội phạm IQ cao, độc ác đang ẩn thân trong lốt người quen của họ. Trong quá trình điều tra, hai người liên tục vướng vào những rắc rối, vụ án dẫn đi đến ngõ cụt. Tuy nhiên, bằng tài năng của mình, họ đã đưa sự thật ra ánh sáng. Trong quá trình sát cánh bên nhau phá án cũng khiến tình cảm của hai người dần nảy sinh, từ đây, nhiều sự thật về quá khứ cũng được hé lộ.",
+      "link": "https://www.youtube.com/embed/joMnv7S2chI",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085835914770665492/maxresdefault.png",
+      "tags": {
+        "tag1": "hung thủ",
+        "tag2": "cảnh sát",
+        "tag3": "truy tìm",
+        "tag4": "hình sự"
+      }
+    },
+    {
+      "id": 19,
+      "ten": "Trận Chiến Midway",
+      "theloai": "Chiến tranh",
+      "quocgia": "Anh",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2020,
+      "daodien": "Roland Emmerich",
+      "dienvien": "Luke Evans, Mandy Moore, Patrick Wilson",
+      "thoiluong": "1 giờ 43 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Trận Chiến Midway lấy bối cảnh trong Thế Chiến thứ 2 sau sự kiện Trân Châu Cảng nổi tiếng, tái hiện trận đánh lịch sử Midway - điểm nóng quan trọng tại Thái Bình Dương.",
+      "link": "https://www.youtube.com/embed/hf3WRHikpjs",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085923439052861504/maxresdefault.png",
+      "tags": {
+        "tag1": "chiến tranh",
+        "tag2": "Midway",
+        "tag3": "máy bay"
+      }
+    },
+    {
+      "id": 20,
+      "ten": "Dục Huyết Sa Trường",
+      "theloai": "Chiến tranh",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2021,
+      "daodien": "Cao Phong",
+      "dienvien": "Hà Đạt, Dương Tuấn Sinh",
+      "thoiluong": "1 giờ 41 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Dục Huyết Sa Trường kể về cuộc cách mạng lần thứ 2 diễn ra năm 1934, hồng quân khu vực Quảng Xương chiến đấu hết mình bảo vệ lãnh thổ.",
+      "link": "https://www.youtube.com/embed/F7jr7DVB9VU",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085923970915782766/maxresdefault.png",
+      "tags": {
+        "tag1": "chiến đấu",
+        "tag2": "chiến tranh",
+        "tag3": "bảo vệ"
+      }
+    },
+    {
+      "id": 21,
+      "ten": "11 Niềm Hy Vọng",
+      "theloai": "Thể thao",
+      "quocgia": "Việt Nam ",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2018,
+      "daodien": "Robie Trường",
+      "thoiluong": "1 giờ 50 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Nhan Phúc Vinh, Hoàng Phi, Hiếu Nguyễn, Hùng Chilhyun, Rima Thanh Vy, Thanh Tú, Lâm Minh Thắng, Võ Hoài Nam",
+      "luottruycap": 0,
+      "noidung": "11 Niềm Hy Vọng là câu chuyện về hành trình theo đuổi đam mê của Phong (Nhan Phúc Vinh). Trên con đường ấy, Phong phải đối mặt với những cấm cản, gian nan; đối mặt với những biến động tuổi trẻ, hay những cám dỗ vật chất, tiền tài. Liệu Phong sẽ chọn con đường nào cho mình?",
+      "link": "https://www.youtube.com/embed/_AtfNi-R6nE",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085925418772725870/2803cauthu1_2.png",
+      "tags": {
+        "tag1": "đá banh",
+        "tag2": "sân bóng",
+        "tag3": "cầu thủ",
+        "tag4": "thể thao"
+      }
+    },
+    {
+      "id": 22,
+      "ten": "Võ Đài Hung Tàn",
+      "theloai": "Thể thao",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2020,
+      "daodien": "Thomas Q. Jones",
+      "dienvien": "Thomas Q.Jones, Chuck Liddell",
+      "thoiluong": "1 giờ 40 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Bộ phim Võ Đài Hung Tàn (Savage Dog) là một bộ phim hành động võ thuật xoay quanh câu chuyện về Martin Tillman (do Scott Adkins thủ vai), một võ sĩ Muay Thai có tiếng tăm trong giới đấu trường. Martin là một người Anh bị giam giữ tại Đông Dương trong thời kỳ chiến tranh thế giới thứ hai.",
+      "link": "https://www.youtube.com/embed/v-Fb1kJczgI",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1085925641293148170/Undisputed-3-tro-lai-vo-dai.png",
+      "tags": {
+        "tag1": "boxing",
+        "tag2": "thể thao",
+        "tag3": "võ sĩ"
+      }
+    },
+    {
+      "id": 23,
+      "ten": "Ăn Mày Đặc Công",
+      "theloai": "Võ thuật",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2016,
+      "daodien": "Trương Gia Ninh",
+      "dienvien": "Ngô Kinh, Lưu Diệc Phi, Trần Hiểu.",
+      "thoiluong": "2 giờ 36 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Bối cảnh của phim xoay quanh một đặc vụ tình báo Trung Quốc tên là Đông Phương Bất Bại, người đã phải lén lút tiếp cận và thâm nhập vào một tổ chức tội phạm để thu thập thông tin. Trong quá trình làm nhiệm vụ, anh đã gặp gỡ và phải đối đầu với nhiều tên trùm tội phạm nguy hiểm và tài giỏi.Đặc biệt, phim có nhiều pha võ thuật đẹp mắt và hấp dẫn, do chính Ngô Kinh đảm nhận vai chính và thực hiện các pha hành động đầy kỹ năng và uy lực. Các tình tiết trong phim cũng được xây dựng khá hấp dẫn và kịch tính, giúp khán giả không nhàm chán trong suốt quá trình xem phim.Tổng thể, Ăn Mày Đặc Công là một bộ phim võ thuật hành động đáng xem, với nhiều pha hành động và tình tiết hấp dẫn, cùng với sự tham gia của các diễn viên tài năng và nổi tiếng trong làng giải trí Trung Quốc.",
+      "link": "https://www.youtube.com/embed/Yj1hwnIWfoE",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086275542099177512/a.png",
+      "tags": {
+        "tag1": "đặc công",
+        "tag2": "hành động",
+        "tag3": "võ thuật",
+        "tag4": "gay cấn"
+      }
+    },
+    {
+      "id": 24,
+      "ten": "Huyền Thoại Hoàng Phi Hồng",
+      "theloai": "Võ thuật",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2020,
+      "daodien": "Chu Hiển Dương",
+      "thoiluong": "2 giờ 07 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Bành Vu Yến, Hồng Kim Bảo, Tỉnh Bách Nhiên, Vương Tổ Lam, Trương Tấn, Vương Lạc Đan, Lương Gia Huy và Dương Dĩnh",
+      "luottruycap": 0,
+      "noidung": "Dưới triều Mãn Thanh những năm giữa thế kỷ XIX, xã hội loạn lạc, dân chúng khốn khổ lầm than dưới ách cai quản của đám quan lại thối nát và những bang phái tàn bạo. Tại Quảng Châu, quyền cai quản bến cảng Hoàng Phố nằm dưới tay hai đại thế lực là Hắc Hổ bang và Bắc Hải bang. Hai bang phái vừa đàn áp, bóc lột dân lao động nghèo đói, vừa thường xuyên xung đột, tranh giành địa bản, khiến bến cảng trở thành địa ngục đối với người dân vô tội.",
+      "link": "https://www.youtube.com/embed/erso59uFW-0",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086278578259370014/maxresdefault.png",
+      "tags": {
+        "tag1": "hoàng phi hồng",
+        "tag2": "hành động",
+        "tag3": "võ thuật",
+        "tag4": "gay cấn"
+      }
+    },
+    {
+      "id": 25,
+      "ten": "Tế Công: Hàng Long Giáng Thế",
+      "theloai": "Hoạt hình",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2021,
+      "daodien": "Lê Hương Giang.",
+      "thoiluong": "1 giờ 18 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Thôn Vĩnh Ninh dưới chân núi Xích Thành, có một cậu bé ngoan ngoãn tên Lý Tu Duyên vì muốn người mẹ bị bệnh triền miên nhanh khỏi bệnh nên một lòng muốn trở thành anh hùng, cậu có lòng nhưng toàn gây ra chuyện xấu khiến cho cả thôn gà bay chó sủa.Sau một lần gặp hiểm nguy, cậu phát hiện ra bản thân là chuyển thế của anh hùng la hán hàng long. Cha của cậu, Lý Mậu Xuân bị Kim Linh mê hoặc, ông vì muốn bảo vệ Lý Tu Duyên nên cướp đoạt kim thân. Nhưng kim thân của ông lại bị Kim Linh cướp đi hiến tế cho Kim Sí Đại Bằng để Kim Sí Đại Bằng phục sinh trở lại huỷ diệt nhân gian. Cuối cùng, hai cha con Lý Tu Duyên vì yêu thích sự nghiệp vì nghĩa diệt thân thế nên dắt tay nhau cùng đối đầu với Kim Sí Đại Bằng, nhưng chung quy chỉ là lấy trứng chọi đá.Ngay khi Lý Tu Duyên sắp chết cậu mới bất ngác ngộ ra yêu còn quan trọng hơn kim thân rồi hóa thân thành la hán hàng long. Sau khi trải qua muôn trùng khó khăn của nhân gian, cuối cùng thì la hán hàng long cũng buông bỏ chính quả.",
+      "link": "https://www.youtube.com/embed/6oLjCdwiSpE",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086422463786782781/5622681_te-cong-hang-long-giang-the-1-1.png",
+      "tags": {
+        "tag1": "hoạt hình",
+        "tag2": "hành động",
+        "tag3": "võ thuật",
+        "tag4": "rồng vàng"
+      }
+    },
+    {
+      "id": 26,
+      "ten": "Tom & Jerry",
+      "theloai": "Hoạt hình",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 1940,
+      "daodien": "William Hanna và Joseph Barbera",
+      "thoiluong": "7 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Bộ phim tập trung vào cuộc chiến không hồi kết giữa Tom, một chú mèo đen, và Jerry, một chú chuột xám. Các tập phim thường xoay quanh các màn chạy đua, săn lùng và tranh giành món đồ ăn giữa hai nhân vật chính. Phim không có lời thoại nhiều, chỉ có các âm thanh, nhạc nền và tiếng kêu của Tom và Jerry.",
+      "link": "https://www.youtube.com/embed/Q9GLCcJ27TA",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086425704645808229/maxresdefault.png",
+      "tags": {
+        "tag1": "mèo",
+        "tag2": "chuột",
+        "tag3": "hoạt hình",
+        "tag4": "hài hước"
+      }
+    },
+    {
+      "id": 27,
+      "ten": "Tẩu Thoát",
+      "theloai": "Phiêu lưu",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2015,
+      "daodien": "Daniel Benmayor",
+      "thoiluong": "1 giờ 22 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 1,
+      "dienvien": "Marie Avgeropoulos, Taylor Lautner, Adam Rayner, Rafi Gavron, Sam Medina",
+      "luottruycap": 1,
+      "noidung": "Tracers(TẨU THOÁT) là bộ phim hành động kịch tính nói về cuộc sống nguy hiểm trong thế giới parkour.Phim xoay quanh nhân vật Cam (Taylor Lautner thủ vai), một nhân viên đưa thư bằng chiếc xe đạp ở New York,bị một băng nhóm tội phạm truy đuổi gắt gao do những khoản nợ khó trả. Trong khi bị truy đuổi, Cam đâm sầm chiếc xe đạp vào Nikki (Marie Avgeropoulos) và sau đó cô gái này đã kéo anh vào thế giới parkour đầy nguy hiểm. Cuộc sống của anh nhanh chóng thay đổi khi anh có công việc kiếm bộn tiền dưới sự điều hành của tên trùm tội phạm Miller (AdamRayner).Tuy nhiên, khi muốn thoát ra khỏi thế giới đầy rắc rối này, anh phải đối mặt với những khó khăn, thách thức đe dọa đến tính mạng.",
+      "link": "https://www.youtube.com/embed/jj_7XWxqpl0",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1090263280720822272/maxresdefault.png",
+      "tags": {
+        "tag1": "phiêu lưu",
+        "tag2": "tẩu thoát",
+        "tag3": "parkour",
+        "tag4": "gay cấn"
+      }
+    },
+    {
+      "id": 28,
+      "ten": "Người Cuối Cùng",
+      "theloai": "Phiêu lưu",
+      "quocgia": "Tây Ban Nha",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2022,
+      "daodien": "Diogo Morgado",
+      "thoiluong": "1 giờ 32 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Maria João Bastos, Francisco Froes, Luis Lourenco, Diogo Morgado",
+      "luottruycap": 0,
+      "noidung": "Solum - Một chương trình thực tế được tổ chức trên một hòn đảo có người ở, nơi tám thí sinh phải chiến đấu vì sự sống còn của họ. Solum không chỉ là một trò chơi - đó là một bài kiểm tra, một quá trình lựa chọn và một tấm gương đối diện với bản chất của Tự nhiên, với sự giả dối của Loài người.",
+      "link": "https://www.youtube.com/embed/TeGJEObrS5Y",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1090263712230817842/maxresdefault.png",
+      "tags": {
+        "tag1": "phiêu lưu",
+        "tag2": "tẩu thoát",
+        "tag3": "hòn đảo",
+        "tag4": "người cuối cùng",
+        "tag5": "mạo hiểm"
+      }
+    },
+    {
+      "id": 29,
+      "ten": "Chiến Bình Ngoài Vũ Trụ",
+      "theloai": "Khoa học - Viễn tưởng",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 1984,
+      "daodien": "Nick Castle",
+      "thoiluong": "1 giờ 15 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Lance Guest, Robert Preston, Dan O'Herlihy Catherine Mary Stewart, Norman Snow, Kay E. Kuter, Barbara Bosson, Chris Hebert, John, O'Leary, George McDaniel",
+      "luottruycap": 0,
+      "noidung": "Bộ phim kể về câu chuyện của Alex Rogan, một chàng trai sống tại một thị trấn nhỏ ở California, Mỹ. Anh ta bị cuốn hút bởi trò chơi điện tử mới nhất tại quán đồ ăn nhanh trong thị trấn của mình. Sau khi anh chơi được một màn chơi cao điểm, anh nhận được lời mời từ người ngoài hành tinh để tham gia vào một cuộc chiến vũ trụ thực sự.",
+      "link": "https://www.youtube.com/embed/xZWUsKID_jc",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086429670192459867/maxresdefault.png",
+      "tags": {
+        "tag1": "viễn tưởng",
+        "tag2": "không gian",
+        "tag3": "vũ trụ",
+        "tag4": "trò chơi điện tử"
+      }
+    },
+    {
+      "id": 30,
+      "ten": "Kẻ Bất Tử",
+      "theloai": "Khoa học - Viễn tưởng",
+      "quocgia": "Anh",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2019,
+      "daodien": "Victor Garcia",
+      "thoiluong": "1 giờ 11 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Tony Todd trong, Dylan Baker , Agnes Bruckner , Robin Bartlett , Samm Levine , Vanessa Lengies",
+      "luottruycap": 0,
+      "noidung": "Một nhà khoa học tài giỏi đã đóng băng những đứa con còn sống của mình, trong khi ông chạy đua với thời gian để tìm ra cách chữa trị căn bệnh di truyền chết người của chúng bằng cách giải mã DNA của loài sứa Turritopsis bất tử.",
+      "link": "https://www.youtube.com/embed/I_gqzYDBUP4",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086432379184357436/maxresdefault.png",
+      "tags": {
+        "tag1": "bất tử",
+        "tag2": "nhà khoa học",
+        "tag3": "viễn tưởng",
+        "tag4": "hồi hợp"
+      }
+    },
+    {
+      "id": 31,
+      "ten": "Ngôi Nhà Chết Chóc",
+      "theloai": "Kinh dị",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2016,
+      "daodien": "Sheldon Wilson",
+      "thoiluong": "1 giờ 36 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Fulvio Cecere, Jodelle Ferland, Matt Bellefleur, Neal McDonough, Sunny Suljic",
+      "luottruycap": 0,
+      "noidung": "Ngôi Nhà Chết chóc - Unspoken là bộ phim xoay quanh những sự kiện kỳ lạ diễn ra tại một ngôi nhà bí ẩn nằm sâu trong rừng. 17 năm sau một vụ mất tích không thể lý giải của gia đình Anderson, người mẹ độc thân Ruby cùng đứa con trai câm Adrian đã chuyển đến sống tại ngôi nhà này.",
+      "link": "https://www.youtube.com/embed/SZY5pRR0SBI",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086436753721798718/maxresdefault.png",
+      "tags": {
+        "tag1": "kinh dị",
+        "tag2": "ma",
+        "tag3": "ngôi nhà",
+        "tag4": "rùng rợn"
+      }
+    },
+    {
+      "id": 32,
+      "ten": "The Conjuring",
+      "theloai": "Kinh dị",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2013,
+      "daodien": "James Wan",
+      "thoiluong": "t giờ 28 phút",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Patrick Wilson, Vera Farmiga, Frances O'Connor, Madison Wolfe, Simon McBurney, Franka Potente",
+      "luottruycap": 0,
+      "noidung": "Trong The Conjuring  (Ám Ảnh Kinh Hoàng ),bộ phim mang tới bí mật về vụ thảm sát Amityville cũng như loạt sự kiện quỷ ám tại Enfield. Bắt đầu từ vụ việc cô con gái Janet (Madison Wolfe thủ vai) của gia đình Hodgson hành xử kỳ lạ, Ed và Lorraine bị kéo vào cuộc chiến nguy hiểm, đối đầu với một thế lực ma quỷ tàn ác đe dọa đến sự an nguy của chính họ.",
+      "link": "https://www.youtube.com/embed/IEPegIGj0j0",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086436250485010532/wpkfmyw5_1920x1080-theconjuring.png",
+      "tags": {
+        "tag1": "kinh dị",
+        "tag2": "ma mị",
+        "tag3": "rùng mình",
+        "tag4": "gay cấn"
+      }
+    },
+    {
+      "id": 33,
+      "ten": "Hercules Reborn",
+      "theloai": "Thần thoại",
+      "quocgia": "Anh",
+      "chieurap": false,
+      "phimle": true,
+      "nam": 2014,
+      "daodien": "Nick Lyon",
+      "thoiluong": "1 giờ 35 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "John Hennigan , Christian Oliver , Christina Ulfsparre ,Marcus Shirock , James Duval",
+      "luottruycap": 0,
+      "noidung": "Bị ám ảnh bởi 1 tội lỗi đã gây ra trong quá khứ, Hercules giờ đây trở thành 1 “tay lính đánh thuê” cùng với 5 bạn đồng hành trung thành, anh phiêu lưu khắp Hy Lạp bán sức mạnh của mình để đổi lấy vàng và dùng danh tiếng lẫy lừng khiến kẻ thù khiếp sợ. Khi vị vua nhân từ của xứ Thrace và cháu gái ông nhờ đến sự giúp đỡ của Hercules để đánh bại 1 tên chúa tể tàn bạo khát máu, anh nhận ra một khi thực thi công lý và giành lấy vinh quang, anh sẽ trở lại thành người anh hùng năm xưa trở lại thành Hercules trong thần thoại…",
+      "link": "https://www.youtube.com/embed/RcJIhv7rOQM",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086436960639389867/CxCD-Efn5wgckBE-AOBMEL6Coq5XexYBKhmOjgxBXmPg0G_JOdNF8bug2Gz-_0LOfzVjaRv0qYtW11ZhbnKoMwdpDFf7AqzOW3SLuLkfHJLXopezdH1JESbG8gs1920-w1920-h1080.png",
+      "tags": {
+        "tag1": "thần thoại",
+        "tag2": "sức mạnh",
+        "tag3": "chiến đấu",
+        "tag4": "quay về"
+      }
+    },
+    {
+      "id": 34,
+      "ten": "Như Lai Thần Chưởng",
+      "theloai": "Thần thoại",
+      "quocgia": "Âu-Mỹ",
+      "chieurap": true,
+      "phimle": true,
+      "nam": 2014,
+      "daodien": "Teddy Chan",
+      "thoiluong": "1 giờ 19 phút",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Donnie Yen , Wang Baoqiang , Charlie Yeung , Michelle Bai, Xing Yu, Alex Fong, David Chiang, Kang Yu, và Deep Ng",
+      "luottruycap": 0,
+      "noidung": "Bộ phim Như Lai Thần Chưởng (Kung Fu Jungle) xoay quanh câu chuyện về Hahou Mo (do Donnie Yen thủ vai) - một võ sĩ được đánh giá rất cao trong giới võ thuật. Tuy nhiên, sau khi bị buộc tội giết người, Hahou Mo bị bắt giam. Trong khi đó, một tên sát thủ tàn bạo đang tìm cách giết hại những võ sĩ hàng đầu để chứng tỏ tài năng của mình. Để được giảm án tù, Hahou Mo quyết định giúp cảnh sát tóm được tên sát thủ này. Cùng với đó, anh còn phải đối mặt với các đối thủ khác trong các trận đấu võ thuật ác liệt.",
+      "link": "https://www.youtube.com/embed/TE_xgf_ZEbY",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086438230385242122/maxresdefault.png",
+      "tags": {
+        "tag1": "thần thoại",
+        "tag2": "kung fu",
+        "tag3": "như lai thần chưởng",
+        "tag4": "võ thuật"
+      }
+    },
+    {
+      "id": 35,
+      "ten": "Phong Điểu Xuất Kích",
+      "theloai": "Hành động",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2020,
+      "daodien": "Mã Lỗ Kiếm",
+      "thoiluong": "Đã có 10/21 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "dienvien": "Lưu Khải Uy, Vương Tri, Tào Triết, Trương Giai Ninh, Mao Nghị",
+      "luottruycap": 0,
+      "noidung": "Phong Điểu Xuất Kích là bộ phim hành động võ thuật Trung Quốc cực hay kể về La Thiếu Khanh (Lưu Khải Uy đóng) - một vị bác sĩ mới về nước làm việc. Nhưng đồng thời, anh cũng là thành viên của một Đảng chính trị kháng Nhật. Sau sự kiện ngày 7/7/1937 hai thành Bình Tân liên tiếp chiềm đắm trong chiến tranh, các trường đại học, cao đẳng nổi tiếng đã chuyển vào phương nam. Một nhóm sinh viên cả nam và nữ đầy nhiệt huyết không cam tâm mất nước nên đã bí mật thành lập đoàn kháng Nhật, giết Hán giang. Bọn họ rải truyền đơn, tổ chức ám sát và đánh boom mìn. Ở Thời điểm, cao điểm nhất mỗi ngày Thiên Tân đều có quan viên Nhật Bản bị đột kích đem đến cho quân xâm lược sự chấn động cực lớn. Với những pha hành động đặc sắc và tình huống gây cấn đến ngặt thở. Phong Điểu Xuất Kích hứa hẹn sẽ đem đến cho bạn nhiều cung bật cảm xúc....",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918485248061563/maxresdefault.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Phong Điểu Xuất Kích - Tập 1",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/lEovg3VRb1k",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918485248061563/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Phong Điểu Xuất Kích - Tập 2",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/Oyz4CBHz9vA",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918544010260500/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Phong Điểu Xuất Kích - Tập 3",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/aXA4nFiFoXs",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918817705381929/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Phong Điểu Xuất Kích - Tập 4",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/hzQa-YmN2eo",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918867244306462/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Phong Điểu Xuất Kích - Tập 5",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/gE_wlXkgNAE",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918909610967091/maxresdefault.png"
+        },
+        "tap6": {
+          "ten": "Phong Điểu Xuất Kích - Tập 6",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/JKoP065cLzg",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086918965248405504/maxresdefault.png"
+        },
+        "tap7": {
+          "ten": "Phong Điểu Xuất Kích - Tập 7",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/7DeS57Qfylc",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086919049616822302/maxresdefault.png"
+        },
+        "tap8": {
+          "ten": "Phong Điểu Xuất Kích - Tập 8",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/7DeS57Qfylc",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086919096198762496/maxresdefault.png"
+        },
+        "tap9": {
+          "ten": "Phong Điểu Xuất Kích - Tập 9",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/WmcxzLcI8ao",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086919169842352260/maxresdefault.png"
+        },
+        "tap10": {
+          "ten": "Phong Điểu Xuất Kích - Tập 10",
+          "thoiluong": "45 phút",
+          "link": "https://www.youtube.com/embed/9gTnpFsk5cA",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1086919216835350568/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "hành động",
+        "tag2": "võ thuật",
+        "tag3": "chiến đấu",
+        "tag4": "gay cấn"
+      }
+    },
+    {
+      "id": 36,
+      "ten": "Sau Khi Gặp Được Anh",
+      "theloai": "Tình cảm",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2023,
+      "daodien": "Hứa Tùng Huy",
+      "dienvien": "Châu Tuấn Vỹ, Kim Tử Tuyền, Thường Bân",
+      "thoiluong": "Đã có 5/12 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Sau Khi Gặp Được Anh là một bộ phim về tình yêu và bạn bè. Bộ phim nói về câu chuyện của một nữ sinh trẻ, Ngân đã phải đối mặt với những gian khổ trong quá khứ của mình và đã tìm thấy một người bạn cực kỳ đáng tin cậy. Ngân sẽ được thể hiện sự khám phá về cuộc sống, tìm hiểu về tình yêu và học cách yêu thương để tạo ra một tương lai tươi sáng.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087435977406029914/a_100519862_m_601_vi_1080_608.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Sau Khi Gặp Được Anh - Tập 1",
+          "thoiluong": "31 phút",
+          "link": "https://www.youtube.com/embed/VeF2_bmZQWo",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087320426578968616/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Sau Khi Gặp Được Anh - Tập 2",
+          "thoiluong": "27 phút",
+          "link": "https://www.youtube.com/embed/l2GJtvXFpsg",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087321237237268490/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Sau Khi Gặp Được Anh - Tập 3",
+          "thoiluong": "25 phút",
+          "link": "https://www.youtube.com/embed/2XJ-aaNkYqM",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087321304430039061/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Sau Khi Gặp Được Anh - Tập 4",
+          "thoiluong": "26 phút",
+          "link": "https://www.youtube.com/embed/9gDl9NGpQ5I",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087321376920186980/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Sau Khi Gặp Được Anh - Tập 5",
+          "thoiluong": "27 phút",
+          "link": "https://www.youtube.com/embed/ne5LqDae0s0",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087321480737599558/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "tình cảm",
+        "tag2": "cổ trang",
+        "tag3": "tình yêu",
+        "tag4": "Sau Khi Gặp Được Anh"
+      }
+    },
+    {
+      "id": 37,
+      "ten": "Thiếu Niên Ca Hành",
+      "theloai": "Cổ Trang",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2022,
+      "daodien": "Lý Hoành Nghị",
+      "dienvien": "Lý Hoành Nghị, Lưu Học Nghĩa, Lâm Bác Dương, Ngao Thụy Bằng, Lý Hân Trạch, Đới Yến Ni, Phạm Tân Vĩ, Đặng Khải",
+      "thoiluong": "Đã có 2/8 tập",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Thiếu Niên Ca Hành Tiêu Sắt một ông chủ hà tiện, hắn ta khoác trên mình bộ cánh quý giá nhưng lại không có tiền để duy trì cái khách điếm của hắn. Lôi Vô Kiệt, một đệ tử của Lôi Môn vừa mới bước chân vào chốn giang hồ, bọn họ gặp nhau ở Tuyết Lạc sơn trang, cùng nhau bước lên con đường hành tẩu giang hồ. Trong hành trình phiêu lưu trên chốn giang hồ, họ tình cờ quen biết và kết giao với thiếu chủ Vô Tâm của Thiên Ngoại Thiên, Tư Không Thiên Lạc- con gái của Thương Tiên thành Tuyết Nguyệt , Đường Liên- một đệ tự của Đường Môn, và Diệp Nhược Y- con gái của đại tướng quân. Nhưng họ vô tình vướng vào chuyện phân tranh trong chốn giang hồ phức tạp. Bọn họ dần dần phát hiện ra chuyện này có liên quan đến chủ quán trọ tên Tiêu Sắt. Thời gian này họ đã đoạt được quan tài vàng và hóa giải được cục diện nguy nan trước mắt. Họ tìm kiếm Hải Ngoại Tiên Sơn, tranh đoạt ngôi vị đệ nhất thiên hạ, đánh bại thiên binh vạn mã. Thân phận thật sự của Tiêu Sắt dần dần được hé lộ. Thì ra mọi chuyện đều có liên quan đến cuộc chiến tranh đoạt Hoàng Vị 12 năm trước. Dưới sự đồng lòng hiệp lực của các thiếu niên trẻ tuổi, họ đã đánh tan được âm mưu thâm độc đằng sau bức màn của Thiên Khải Hoàng Thành, đồng thời cũng vén lên bức màn che dấu sự thật của 12 năm trước.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087436193949569054/evdpd5f6_1920x1080-thieuniencahanh.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Thiếu Niên Ca Hành - Tập 1",
+          "thoiluong": "46 phút",
+          "link": "https://www.youtube.com/embed/k-8Ec6iCUhg",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087323299555573780/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Thiếu Niên Ca Hành - Tập 2",
+          "thoiluong": "43 phút",
+          "link": "https://www.youtube.com/embed/XLKUwPfscDQ",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087323957478297620/xv7au478_1920x1080-thieuniencahanh1.png"
+        }
+      },
+      "tags": {
+        "tag1": "võ thuật",
+        "tag2": "cổ trang",
+        "tag3": "thiếu niên"
+      }
+    },
+    {
+      "id": 38,
+      "ten": "Đi Đến Nơi Có Gió",
+      "theloai": "Tình cảm",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2023,
+      "daodien": "Lin Yan",
+      "dienvien": "Đặng Siêu Nguyên, Tống Y Nhân",
+      "thoiluong": "Đã có 3/12 tập",
+      "dacbiet": "HD|Vietsub",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Cuộc sống và công việc của Hứa Hồng Đậu (Lưu Diệc Phi) rơi xuống dốc vì cái chết của người bạn thân nhất. Cô một thân một mình đến thôn Vân Miêu ở Đại Lý để nghỉ ngơi và điều chỉnh tâm trạng. Tại đó, cô gặp Tạ Chi Dao (Lý Hiện) , một người đã bỏ công việc lương cao và trở về lại quê hương để khởi nghiệp, cũng như gặp gỡ một nhóm các bạn đồng trang lứa đến từ các thành phố lớn khác.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087438014705315931/review-phim-di-den-noi-co-gio-6-1.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Đi Đến Nơi Có Gió - Tập 1",
+          "thoiluong": "41 phút",
+          "link": "https://www.youtube.com/embed/M-RpNwlEA28",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087325469826883634/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Đi Đến Nơi Có Gió - Tập 2",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/Cq7k5U8QIM8",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087325646700675143/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Đi Đến Nơi Có Gió - Tập 3",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/6bnJZ5s7obA",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087325712123449354/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "tình cảm",
+        "tag2": "có gió",
+        "tag3": "cố gắng"
+      }
+    },
+    {
+      "id": 39,
+      "ten": "Mỉm Cười Với Cuộc Sống",
+      "theloai": "Tình cảm",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2022,
+      "daodien": "Lý Phi Oanh",
+      "dienvien": "Trần Nữ Yên Khê,  Nguyễn Hồng Ánh, Quỳnh Hoa, Quang Tuấn, Hữu Châu",
+      "thoiluong": "Đã có 5/18 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Sau Khi Gặp Được Anh là một bộ phim về tình yêu và bạn bè. Bộ phim nói về câu chuyện của một nữ sinh trẻ, Ngân đã phải đối mặt với những gian khổ trong quá khứ của mình và đã tìm thấy một người bạn cực kỳ đáng tin cậy. Ngân sẽ được thể hiện sự khám phá về cuộc sống, tìm hiểu về tình yêu và học cách yêu thương để tạo ra một tương lai tươi sáng.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087445840735522826/conangdaugo.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Mỉm Cười Với Cuộc Sống - Tập 1",
+          "thoiluong": "37 phút",
+          "link": "https://www.youtube.com/embed/Pj8ABvxgQk4",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087327216754507826/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Mỉm Cười Với Cuộc Sống - Tập 2",
+          "thoiluong": "35 phút",
+          "link": "https://www.youtube.com/embed/VB7yRyEYz4w",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087327274417782835/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Mỉm Cười Với Cuộc Sống - Tập 3",
+          "thoiluong": "33 phút",
+          "link": "https://www.youtube.com/embed/8Gm1wWR7oNY",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087327319938572298/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Mỉm Cười Với Cuộc Sống - Tập 4",
+          "thoiluong": "36 phút",
+          "link": "https://www.youtube.com/embed/wATg246khnA",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087327367183212605/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Mỉm Cười Với Cuộc Sống - Tập 5",
+          "thoiluong": "38 phút",
+          "link": "https://www.youtube.com/embed/jcCQoGp9OHw",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087327425727320124/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "tình cảm",
+        "tag2": "lãng mạn",
+        "tag3": "tình yêu",
+        "tag4": "Mỉm Cười Với Cuộc Sống"
+      }
+    },
+    {
+      "id": 40,
+      "ten": "Thiên Long Bát Bộ",
+      "theloai": "Cổ Trang",
+      "quocgia": "Trung Quốc",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2022,
+      "daodien": "John Woo",
+      "dienvien": "Tony Leung Chiu Wai, Takeshi Kaneshiro, Zhang Ziyi, Chang Chen, Faye Wong",
+      "thoiluong": "Đã có 4/15 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Thiên Long Bát Bộ là từ tiểu thuyết kinh điển cùng tên của nhà văn Kim Dung. Bộ phim kiếm võ hiệp xoay quanh các nhân vật của lãnh thổ 5 quốc gia là Tống, Liêu, Đại Lý, Tây Hạ, Thổ Phồn. Câu chuyện về cuộc đời, tình yêu và những biến cố kinh thiên động địa trong cuộc đời ba nhân vật chính, ba chàng trai tài giỏi, đầy cá tính là: Kiều Phong, Đoàn Dự và Hư Trúc.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087451782982156358/94wxjcwz_1920x1080-thienlongbatbo_1267_712.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Thiên Long Bát Bộ - Tập 1",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/akcwZNh_prg",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087330031195398224/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Thiên Long Bát Bộ - Tập 2",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/VW10wduIT6o",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087330564333375568/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Thiên Long Bát Bộ - Tập 3",
+          "thoiluong": "42 phút",
+          "link": "https://www.youtube.com/embed/AFoyWq20Tws",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087330290587938816/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Thiên Long Bát Bộ - Tập 4",
+          "thoiluong": "42 phút ",
+          "link": "https://www.youtube.com/embed/RwmnVQymxBw",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087330625587003462/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "cổ trang",
+        "tag2": "kiếm hiệp",
+        "tag3": "xâm chiếm",
+        "tag4": "thiên long"
+      }
+    },
+    {
+      "id": 41,
+      "ten": "Cặp Đôi Oan Gia",
+      "theloai": "Hài Hước",
+      "quocgia": "Việt Nam ",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2022,
+      "daodien": "Đỗ Bảo Phong",
+      "dienvien": "Puka, Gin Tuấn Kiệt, Phát La, Khởi My",
+      "thoiluong": "Đã có 5/38 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Cặp Đôi Oan Gia là một phim tình cảm Việt Nam của Đỗ Bảo Phong (đạo diễn). Nó kể về câu chuyện tình yêu của hai đứa trẻ, Nguyễn Thanh Tùng và Tạ Thị Kim Ngân. Ngân là cô gái xinh đẹp đến từ  một gia đình khá giàu có, còn Tùng là một người con trai bình thường. Họ có một tình yêu sâu sắc và đồng hành trong cuộc sống. Tuy nhiên, sự thật là cả hai đều đang gặp những vấn đề trong cuộc sống, và họ phải cố gắng để sống cùng nhau. Bộ phim nói về sự tình yêu, hạnh phúc và n ơi sự thử thách của cả hai với nhau.",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087454170157690910/egj9ere6_capdoi_banner.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Cặp Đôi Oan Gia - Tập 1",
+          "thoiluong": "50 phút",
+          "link": "https://www.youtube.com/embed/SxKMRHLk6hc",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087332904780181524/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Cặp Đôi Oan Gia- Tập 2",
+          "thoiluong": "47 phút",
+          "link": "https://www.youtube.com/embed/VRxCZOpDfDk",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087332947654344714/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Cặp Đôi Oan Gia- Tập 3",
+          "thoiluong": "50 phút",
+          "link": "https://www.youtube.com/embed/sxFa4njc1i0",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087332994324381726/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Cặp Đôi Oan Gia - Tập 4",
+          "thoiluong": "48 phút ",
+          "link": "https://www.youtube.com/embed/Xep3OHxNScI",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087333046585413642/maxresdefault.png"
+        },
+        "tap5": {
+          "ten": "Cặp Đôi Oan Gia - Tập 5",
+          "thoiluong": "46 phút ",
+          "link": "https://www.youtube.com/embed/zX5i622-0uw",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087333628998066206/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "Puka",
+        "tag2": "Gin Tuấn Kiệt",
+        "tag3": "tình cảm",
+        "tag4": "hài hước"
+      }
+    },
+    {
+      "id": 42,
+      "ten": "Đứa Em Thừa Kế",
+      "theloai": "Gia Đình",
+      "quocgia": "Việt Nam ",
+      "chieurap": false,
+      "phimle": false,
+      "nam": 2022,
+      "daodien": "Long Võ",
+      "dienvien": "Puka, Gin Tuấn Kiệt, Thuận Nguyễn, NSUT Ngọc Trinh, Phát La",
+      "thoiluong": "Đã có 4/16 tập",
+      "dacbiet": "HD|Thuyết minh",
+      "danhgia": 0,
+      "luotdanhgia": 0,
+      "like": 0,
+      "luottruycap": 0,
+      "noidung": "Đứa em thừa kế được Việt hóa từ bộ sitcom Thái Lan có tên Three gentlemen and a sister. Bộ phim kể về gia đình gồm 3 anh em trai Huy (Thuận Nguyễn) - Vinh (Gin Tuấn Kiệt) - Sang (Phát La). Mẹ mất, cha bỏ đi nên họ phải sống nương tựa vào nhau. Là anh cả, Huy vừa làm cha vừa làm mẹ tận tình chăm sóc các em. Có lẽ cuộc sống của họ sẽ êm đềm trôi như vậy nếu không có sự xuất hiện của đứa em gái từ trên trời rơi xuống",
+      "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087454346767245384/8trhb7x9_1920x1080-duaemthuake.png",
+      "tapphim": {
+        "tap1": {
+          "ten": "Đứa Em Thừa Kế- Tập 1",
+          "thoiluong": "28 phút",
+          "link": "https://www.youtube.com/embed/t12eOsHIv20",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087335700254425118/maxresdefault.png"
+        },
+        "tap2": {
+          "ten": "Đứa Em Thừa Kế - Tập 2",
+          "thoiluong": "25 phút",
+          "link": "https://www.youtube.com/embed/Bt9mxnrrmnA",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087336618320482375/maxresdefault.png"
+        },
+        "tap3": {
+          "ten": "Đứa Em Thừa Kế - Tập 3",
+          "thoiluong": "26 phút",
+          "link": "https://www.youtube.com/embed/WG_Br8RthaU",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087336867965435984/maxresdefault.png"
+        },
+        "tap4": {
+          "ten": "Đứa Em Thừa Kế - Tập 4",
+          "thoiluong": "26 phút",
+          "link": "https://www.youtube.com/embed/MztcdsFRsYc",
+          "image": "https://cdn.discordapp.com/attachments/1085804453246009374/1087336926522134558/maxresdefault.png"
+        }
+      },
+      "tags": {
+        "tag1": "Puka",
+        "tag2": "Gin Tuấn Kiệt",
+        "tag3": "tình cảm",
+        "tag4": "hài hước",
+        "tag5": "gia đình"
+      }
+    }
+  ]
+}
